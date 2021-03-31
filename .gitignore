@@ -27,7 +27,16 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+__pycache__/
 
 #MAC
 .DS_Store
+
+#Data
+*.pcap
+
+
+#VSCODE
+.vscode/
+*.json
+.project
